@@ -1,4 +1,4 @@
-# Bengali-Handwritten-Digit-Classifier
+# Bengali Handwritten Digit Classifier
 This repository contains my solution of [NumtaDB: Bengali Handwritten Digits](https://www.kaggle.com/c/numta), a Kaggle contested, hosted by [Bengali.Ai](https://bengali.ai/). The CNN architecture used in this repository is similar to the [VGG16](https://arxiv.org/pdf/1409.1556.pdf) but the model used in this repository has BatchNormalization layers for regularization purposes.
 
 ### Install
